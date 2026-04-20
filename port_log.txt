@@ -1,0 +1,23 @@
+Port 1 DOWN
+Port 1 UP
+Port 1 UP
+Port 1 DOWN
+Port 1 UP
+Port 1 DOWN
+Port 1 UP
+Port 1 UP
+Port 1 DOWN
+Port 1 UP
+Port 2 DOWN
+Switch 1 - Port 2 DOWN
+Switch 2 - Port 2 DOWN
+Switch 3 - Port 2 UP
+Switch 2 - Port 3 DOWN
+Switch 3 - Port 2 DOWN
+Switch 1 - Port 2 UP
+Switch 1 - Port 2 UP
+Switch 2 - Port 2 UP
+Switch 3 - Port 2 UP
+Switch 2 - Port 3 UP
+Switch 3 - Port 2 DOWN
+Switch 2 - Port 3 DOWN
